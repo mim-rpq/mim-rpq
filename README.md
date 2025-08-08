@@ -45,8 +45,6 @@ Currently, I am exploring modern frameworks and improving my problem-solving ski
 ![VS Code](https://img.icons8.com/color/48/visual-studio-code-2019.png)
 
 ---
-
-##  Connect With Me
 ## Connect With Me
 [![GitHub](https://img.icons8.com/material-outlined/30/github.png)](https://github.com/mim-rpq)  
 [![LinkedIn](https://img.icons8.com/color/30/linkedin.png)](https://linkedin.com/in/mim-rpq)  
