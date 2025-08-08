@@ -47,12 +47,15 @@ Currently, I am exploring modern frameworks and improving my problem-solving ski
 ---
 
 ##  Connect With Me
-[![GitHub](https://img.icons8.com/material-outlined/30/github.png)](https://github.com/mim-rpq)
-[![LinkedIn](https://img.icons8.com/color/30/linkedin.png)](https://linkedin.com/in/mim-rpq)
-[![Facebook](https://img.icons8.com/color/40/facebook-new.png)](https://www.facebook.com/share/17Aovjve6U/)
- **Email:** mimrpq@gmail.com  
- **Location:** Barishal, Bangladesh  
- **Phone:** +8801615228175  
+## Connect With Me
+[![GitHub](https://img.icons8.com/material-outlined/30/github.png)](https://github.com/mim-rpq)  
+[![LinkedIn](https://img.icons8.com/color/30/linkedin.png)](https://linkedin.com/in/mim-rpq)  
+[![Facebook](https://img.icons8.com/color/30/facebook-new.png)](https://www.facebook.com/share/17Aovjve6U/) 
+
+**Email:** mimrpq@gmail.com  
+**Location:** Barishal, Bangladesh  
+**Phone:** +8801615228175
+
 
 ---
 
