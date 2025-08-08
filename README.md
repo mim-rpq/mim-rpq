@@ -1,7 +1,7 @@
 <!-- Banner Image -->
 ![Banner](https://i.ibb.co.com/B50bMDRm/Cover.png)
 
-# Hi there, I'm [Shamima Akter Mim]   
+# Hi there, I'm Shamima Akter Mim   
 ###  Frontend Developer | Web Developer
 
 ---
