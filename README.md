@@ -56,7 +56,7 @@ Currently, I am exploring modern frameworks and improving my problem-solving ski
 ---
 
 ##  GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mim-rpq&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mim-rpq&layout=compact&theme=tokyonight)  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=mim-rpq&theme=tokyonight)  
 
