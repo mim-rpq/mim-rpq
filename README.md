@@ -62,4 +62,4 @@ Currently, I am exploring modern frameworks and improving my problem-solving ski
 
 ---
 
- From [mimr-pq](https://github.com/mim-rpq)
+ From [mim-rpq](https://github.com/mim-rpq)
